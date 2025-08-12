@@ -26,14 +26,13 @@ An end-to-end full-stack application featuring:
 ---
 
 ## 📂 Project Structure
+```
 project-root/
 ├── backend/ # NestJS app
 │ ├── prisma/ # Prisma schema and migrations
 │ └── src/ # NestJS modules, controllers, services
 └── frontend/ # React + Vite app
   └── src/ # React components, hooks, services
-
-
 ---
 
 ## 🛠️ Setup Instructions

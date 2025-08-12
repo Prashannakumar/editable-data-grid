@@ -34,6 +34,7 @@ project-root/
 └── frontend/ # React + Vite app
   └── src/ # React components, hooks, services
 ---
+---
 
 ## 🛠️ Setup Instructions
 

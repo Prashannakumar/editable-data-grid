@@ -33,7 +33,7 @@ project-root/
 │ └── src/ # NestJS modules, controllers, services
 └── frontend/ # React + Vite app
   └── src/ # React components, hooks, services
----
+```
 ---
 
 ## 🛠️ Setup Instructions
